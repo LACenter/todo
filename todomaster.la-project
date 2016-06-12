@@ -1,0 +1,11 @@
+19file=globals.pas
+20file=mainform.pas
+73file=todo.pas
+language=Pascal
+launcherid=LA-7648472820508728207662720
+macbundle=0
+macbundle-icon=
+mainfile=todomaster.pas
+publish-oncompile=1
+targets=
+type= UI (Advanced User Interface)
